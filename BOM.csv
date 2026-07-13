@@ -1,0 +1,14 @@
+"Id;""Designator"";""Footprint"";""Quantity"";""Designation"";""Supplier and ref"";",,,
+"1;""", , ," "";"""";4;"""";;;"
+"2;""D1", D2," D3"";""LED_0805_2012Metric"";3;""LED"";;;",
+"3;""J1"," J7"";""PinHeader_1x08_P2.54mm_Vertical"";2;""Conn_01x08_Pin"";;;",,
+"4;""J2", J8, J11," J12"";""PinSocket_1x08_P2.54mm_Vertical"";4;""Conn_01x08_Socket"";;;"
+"5;""J3"";""PinHeader_1x06_P2.54mm_Vertical"";1;""Conn_01x06_Pin"";;;",,,
+"6;""J4"";""PinSocket_1x06_P2.54mm_Vertical"";1;""Conn_01x06_Socket"";;;",,,
+"7;""J5"";""PinHeader_1x10_P2.54mm_Vertical"";1;""Conn_01x10_Pin"";;;",,,
+"8;""J6", J9," J10"";""PinSocket_1x10_P2.54mm_Vertical"";3;""Conn_01x10_Socket"";;;",
+"9;""LS1"";""XDCR_CMI-1210-5-95T"";1;""CMI-1210-5-95T"";;;",,,
+"10;""R1", R2," R3"";""R_0805_2012Metric"";3;""220R"";;;",
+"11;""S1"," S2"";""Switch"";2;""Switch"";;;",,
+"12;""SW1"";""SW_Push_1P1T_NO_CK_KSC7xxJ"";1;""SW_Push"";;;",,,
+"13;""VR1"";""TRIM_3296W-OT1-103"";1;""resistor_potentiometer_1"";;;",,,
